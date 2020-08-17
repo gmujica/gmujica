@@ -1,3 +1,5 @@
+![](https://www.jstips.co/assets/images/jstips-animation.gif)
+---
 ### Hi there 👋, I'm Gregory a Full Stack Web Developer
 
 - 🔭 I’m currently working on my personal Full stack web
@@ -11,11 +13,11 @@
 -->
 ---
 ### 📕 About me:
-I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology
+I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology
 
 ### Connect with me:
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="gregory_mujica | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Gregory Mujica | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
