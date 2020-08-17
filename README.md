@@ -4,20 +4,15 @@
 
 - 🔭 I’m currently working on my personal Full stack web
 - 🌱 I’m currently learning about new technologies
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ---
 ### 📕 About me
 I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology
 
 ### 🚀 Work experience and curriculum:
 <br />
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/gregory-mujica-2a0400b6/
+" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 ---
