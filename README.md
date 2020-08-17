@@ -11,7 +11,7 @@ I’m a full stack web developer with extensive knowledge in frontend developmen
 
 ### 🚀 Work experience and curriculum:
 <br />
-<a href="https://www.linkedin.com/in/gregory-mujica-2a0400b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/gregory-mujica-2a0400b6/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 ---
