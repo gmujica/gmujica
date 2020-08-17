@@ -12,16 +12,17 @@
 - ⚡ Fun fact: ...
 -->
 ---
-### 📕 About me:
+### 📕 About me
 I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology
 
-### Connect with me:
-<img align="left" alt="gregory_mujica | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Gregory Mujica | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### 🚀 Work experience and curriculum:
+<br />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <br />
+<br />
 
-### Languages and Tools:
+### 💻 Languages and Tools 🔨🔧
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
