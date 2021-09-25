@@ -34,9 +34,6 @@ I’m a full stack web developer with extensive knowledge in frontend developmen
 <br />
 <br />
   
-  
-  📈 my github stats
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmujica&layout=compact)](https://github.com/gmujica/github-readme-stats)
 
 
