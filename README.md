@@ -34,7 +34,9 @@ I’m a full stack web developer with extensive knowledge in frontend developmen
 
 <br />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gmujica&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gmujica&show_icons=true&theme=gotham" alt="gmujca" />
+  
 <br />
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmujica&layout=compact)](https://github.com/gmujica/github-readme-stats)
 
