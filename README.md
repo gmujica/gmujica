@@ -1,6 +1,6 @@
 ![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif?raw=true)
 ---
-## Hi there 👋, I’m Gregory a Full Stack Web Developer 💻💭
+## Hi there 👋, I’m Gregory a Full Stack Javascript-typescript Developer 💻💭
 
 - 🔭 I’m currently working on my personal Full-Stack web App (MERN)
 - 🌱 I’m currently learning about new technologies
