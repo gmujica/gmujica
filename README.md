@@ -7,7 +7,12 @@
 
 ---
 ### 📕 About me
-I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology
+As a senior full-stack JavaScript developer with a passion for innovation and delivering high-quality code, I believe in the power of networking and collaboration within our industry.
+
+With over 8 years of experience, I have had the privilege of working on a wide range of projects, from social network platforms for athletes and sports competitions to e-commerce and marketplace solutions. My technical skills span technologies such as NodeJS (NestJS, Express), ReactJS, TypeScript, PostgreSQL, Docker, AWS, GitLab, microservices and more.
+
+I have a proven track record of successfully leading the development of complex projects, collaborating closely with cross-functional teams to deliver scalable and efficient web applications. I am constantly seeking new challenges and opportunities to expand my skill set, and I actively participate in tech communities and stay up-to-date with the latest industry trends.
+
 
 ### 🚀 Work experience and curriculum:
 <br />
